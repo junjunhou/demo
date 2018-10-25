@@ -1,0 +1,8 @@
+{
+    "name": "junjunhou/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
